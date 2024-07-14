@@ -1,12 +1,12 @@
 - 👋 Hi, I’m @LizzieNya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in learning to code!
+- 🌱 I’m currently learning the very basics
+- 💞️ I’m looking to collaborate on just about anything
+- 📫 Reach me through my email!
+- 😄 Pronouns: she/her 
+- ⚡ Fun fact: I have none
 
 <!---
-LizzieNya/LizzieNya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+so "LizzieNya is now a repo and only the above will be readable by the end-user?
+How would this comment be hidden? Could that be achieved like html? Total noob here.
 --->
