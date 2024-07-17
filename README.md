@@ -7,7 +7,6 @@
 - ⚡ Fun fact: I have none
 
 <!---
-so "LizzieNya is now a repo and only the above will be readable by the end-user?
-How would this comment be hidden? Could that be achieved like html? Total noob here.
+QUESTION: how does one use different languages and shit.
 --->
-  
+  ! Thanks!
