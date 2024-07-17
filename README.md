@@ -7,6 +7,6 @@
 - ⚡ Fun fact: I have none
 
 <!---
-QUESTION: how does one use different languages and shit.
+QUESTION: how does one use different languages and stuff also since  repos are local, how do i wire it to my domain?
 --->
-  ! Thanks!
+  !Thanks!
