@@ -6,6 +6,6 @@
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I have no idea (I'm feeling like I did too much)
 <!---
-QUESTION: how does one use different languages and shit.
+QUESTION: how does one use different languages and stuff also since  repos are local, how do i wire it to my domain?
 --->
   !Thanks!
