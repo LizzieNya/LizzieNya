@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on just about anything, any experience helps!
 - 📫 Reach me through my Google mail!
 - 😄 Pronouns: she/her 
-- ⚡ Fun fact: I have no idea (I'm feeling like I did too much)
+- ⚡ Fun fact: I have no idea what I'm doing ngl.
 <!---
-QUESTION: how does one use different languages without having yo relearn everything?
+QUESTION: how does one use different languages without having to relearn everything?
 Also curious about Github Pages. Cant read the doc atm.
 --->
   !Thanks!
