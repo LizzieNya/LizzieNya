@@ -9,8 +9,7 @@
 - 😄 Pronouns: she/her 
 - ⚡ Fun fact: I have no idea what I'm doing ngl.
 <!---
-QUESTION: how does one use different programming languages without having to relearn everything? Surely there's some kind of interlanguage or some translator?
-Also curious about Github Pages.
+Very tight crunched schedule, so if i don't get back to you, please do not take it personally. Feel free to send another email, or just spam my dms if you have me added on any of my personal socials.
 --->
  *ねえどうしてこんな感じになったの
   もうつまらない私なんかほっといてよ
