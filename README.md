@@ -11,8 +11,3 @@
 <!---
 Very tight crunched schedule, so if i don't get back to you, please do not take it personally. Feel free to send another email, or just spam my dms if you have me added on any of my personal socials.
 --->
- *ねえどうしてこんな感じになったの
-  もうつまらない私なんかほっといてよ
-  雨のせいにしてしまえちゃいそうな
-  汚いこんな世界が大嫌いだ*
-
